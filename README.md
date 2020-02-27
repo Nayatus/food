@@ -8,8 +8,8 @@ pkg install curl
 
 pkg install git
 
-git clone https://github.com/BangOzil/Ozil
+git clone https://git@github.com:Nayatus/food.git
 
 cd food
 
-php beks.php
+php naya.php
